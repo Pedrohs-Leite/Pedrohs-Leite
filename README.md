@@ -5,10 +5,10 @@ Sou Designer e Web Designer, apaixonado por criar experiências digitais que faz
 
 Combinando design estratégico e tecnologia, crio soluções que conectam marcas e pessoas. Vamos construir algo incrível juntos? 🚀
 <div>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:pedroleitte.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/seuinsta" target="_blank">
+  <a href="https://instagram.com/pedroleite.id" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
