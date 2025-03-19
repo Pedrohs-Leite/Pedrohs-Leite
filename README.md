@@ -9,7 +9,7 @@ Combinando design estratégico e tecnologia, crio soluções que conectam marcas
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/pedroleite.id" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/pedroleiteh_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)" alt="Instagram" />
   </a>
 </div>
 
