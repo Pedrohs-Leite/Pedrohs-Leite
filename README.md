@@ -5,9 +5,6 @@ Sou Designer e Web Designer, apaixonado por criar experiências digitais que faz
 
 Combinando design estratégico e tecnologia, crio soluções que conectam marcas e pessoas. Vamos construir algo incrível juntos? 🚀
 <div>
-  <a href="mailto:pedroleitte.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://instagram.com/pedroleite.id" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/pedroleiteh_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)" alt="Instagram" />
   </a>
@@ -24,7 +21,6 @@ Seja criando layouts únicos ou melhorando a experiência do usuário, minhas ha
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
