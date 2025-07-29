@@ -1,6 +1,6 @@
 ## 💻 Pedro Leite 
 **`Criador Digital (Desenvolvedor Front-end // Ui.UX // Designer)`**
-<h2 align="center">Olá , sou Pedro Leite</h2>
+<h2 align="center">Olá , Bem-vindo ao meu Github</h2>
 
 ###
 
