@@ -4,8 +4,13 @@
 
 ###
 
-<p align="left">Sou Designer e Web Designer, apaixonado por criar experiências digitais que fazem a diferença. Meu objetivo é ajudar empresas a se destacarem no mundo digital, ampliando seu alcance e convertendo mais clientes.<br><br>Combinando design estratégico e tecnologia, crio soluções que conectam marcas e pessoas. Vamos construir algo incrível juntos? 🚀</p>
+## 🧠 Sobre mim
 
+- 🚀 Atualmente estudando **Js - Reactjs - tailwind**, iniciando com Reactjs 
+- 🤝 Buscando colaborar em **projetos open source ou pessoais** para adquirir experiência prática  
+- 🌐 Portfólio: https://pedroleite.netlify.app/
+- 💬 Sempre em evolução 
+- 📫 Como falar comigo: pedroleitte.dev@gmail.com
 ###
 
 <div align="center">
