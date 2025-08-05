@@ -18,13 +18,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrohs-Leite&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<p align="center">Habilidades Principais 🌟</p>
 
-###
+
+
+
 
 <div align="center">
+  <h1 align="center">Habilidades Principais 🌟</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -41,6 +42,8 @@
 </div>
 
 ###
+<h1 align='center'> Redes Sociais </h1>
+
 
 <div align="center">
   <a href="https://www.instagram.com/pedroleiteh_/" target="_blank">
@@ -58,7 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Pedrohs-Leite/Pedrohs-Leite/output/snake.svg" alt="Snake animation" />
 
 ###
 
