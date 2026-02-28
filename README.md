@@ -1,16 +1,14 @@
 ## 💻 Pedro Leite 
-**`Criador Digital (Desenvolvedor Front-end // Ui.UX // Designer)`**
+**`Desenvolvedor de Software`**
 <h2 align="center">Olá , Bem-vindo ao meu Github</h2>
 
 ###
 
 ## 🧠 Sobre mim
 
-- 🚀 Atualmente estudando **Js - Reactjs - tailwind**, iniciando com Reactjs 
-- 🤝 Buscando colaborar em **projetos open source ou pessoais** para adquirir experiência prática  
-- 🌐 Portfólio: https://pedroleite.netlify.app/
-- 💬 Sempre em evolução 
-- 📫 Como falar comigo: pedroleitte.dev@gmail.com
+Atualmente, estudante de Sistema de Informação (S.I) na Uninassau (Centro Universitário Maurício de Nassau) entrei no mundo da programação com o intuito de evoluir constantemente e transformar minha curiosidade em resultados.
+Sou uma pessoa que gosta de se aprofundar nos assuntos, explorar novas possibilidades e entender como as coisas funcionam de verdade.
+
 ###
 
 
@@ -33,9 +31,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" alt="behance logo"  />
 </div>
 
 ###
@@ -48,9 +43,6 @@
   </a>
   <a href="https://www.linkedin.com/in/pedro-leite-9b1582352/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/pedroleiteh_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
 </div>
 
