@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+
 
 ###
 
@@ -23,9 +21,9 @@
 
 ###
 
-<p align="center">Atualmente, estudante de Sistema de Informação (S.I) na Uninassau (Centro Universitário Maurício de Nassau) entrei no mundo da programação com o intuito de evoluir constantemente e transformar minha curiosidade em resultados. Sou uma pessoa que gosta de se aprofundar nos assuntos, explorar novas possibilidades e entender como as coisas funcionam de verdade.</p>
+<p align="start">Atualmente, estudante de Sistema de Informação (S.I) na Uninassau (Centro Universitário Maurício de Nassau) entrei no mundo da programação com o intuito de evoluir constantemente e transformar minha curiosidade em resultados. Sou uma pessoa que gosta de se aprofundar nos assuntos, explorar novas possibilidades e entender como as coisas funcionam de verdade.</p>
 
-###
+####
 
 <h3 align="center">🛠 Linguagem e Ferramentas</h3>
 
